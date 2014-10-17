@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nyo:home|Door43 (nyo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nyo|d43-nyo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nyo/archive/master.zip|d43-nyo.zip]]
+
+**Recent Changes**
+{{changes>ns = nyo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nyo|Ethnologue data]]
+
